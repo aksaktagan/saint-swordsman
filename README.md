@@ -19,14 +19,14 @@ Saint Swordsman is an action-packed game built in C++ featuring unique levels, c
 - Version Control: Git & GitHub
 
 ## Screenshots
-![main menu](https://github.com/user-attachments/assets/7891b1dc-d9c5-4b5e-bacf-2a26ae3d9da5)
-![lvl1](https://github.com/user-attachments/assets/856bd319-6c07-44b6-8d3b-52532e2eaff6)
-![lvl1boss](https://github.com/user-attachments/assets/769eef5a-6bbc-479a-8d0e-7279fdaaf743)
-![lvl2](https://github.com/user-attachments/assets/b26f86c2-3e43-44c4-a255-2c5e44687ade)
-![lvl2boss](https://github.com/user-attachments/assets/3c27e7bc-7b2d-4458-9c44-4bf83a62671a)
-![lvl3](https://github.com/user-attachments/assets/2c613f23-da50-4bc5-8e6b-1a53d1b0766f)
-![game won](https://github.com/user-attachments/assets/62f338cd-6d71-4186-b695-7f18ebcc7b0d)
-![game lose](https://github.com/user-attachments/assets/a2ca74e5-ab4c-4ba3-ae9c-ff8ce60d3cd4)
+![main menu](https://github.com/user-attachments/assets/432e7e38-ba77-4c89-8932-b2f8c3742ee4)
+![lvl1](https://github.com/user-attachments/assets/8a3c7111-d455-436e-96df-92861f889705)
+![lvl1boss](https://github.com/user-attachments/assets/cab5fb99-4f92-4a1d-b7c9-e22bcafa07d3)
+![lvl2](https://github.com/user-attachments/assets/da4bde44-6b8a-4b2d-b9c8-33d80ad2ec74)
+![lvl2boss](https://github.com/user-attachments/assets/0a5e10e7-a586-48e1-a2ab-73a66e106ee7)
+![lvl3](https://github.com/user-attachments/assets/5e885f2e-8304-4950-aab5-54120b0e8f77)
+![game won](https://github.com/user-attachments/assets/d0fb336b-f29e-4569-8c49-e8c60474f0ab)
+![game lose](https://github.com/user-attachments/assets/3da23b3f-d40d-4b71-8b47-f5c8c246bece)
 
 ## Controls
 - A/D - Move Left/Right
