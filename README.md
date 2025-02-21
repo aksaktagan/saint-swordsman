@@ -28,6 +28,9 @@ Saint Swordsman is an action-packed game built in C++ featuring unique levels, c
 ![game won](https://github.com/user-attachments/assets/d0fb336b-f29e-4569-8c49-e8c60474f0ab)
 ![game lose](https://github.com/user-attachments/assets/3da23b3f-d40d-4b71-8b47-f5c8c246bece)
 
+## Video Demo
+https://youtu.be/NDUbtUMcFFs?feature=shared
+
 ## Controls
 - A/D - Move Left/Right
 - SPACE - Block
